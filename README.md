@@ -1,4 +1,4 @@
-# 🚗 RideDemo – Uber/Ola Inspired Ride Booking App
+# 🚗 RideCab – Ride Booking App (demo)
 
 [![Made with React](https://img.shields.io/badge/Made%20with-React-blue?logo=react)](https://react.dev)
 [![Made with Flask](https://img.shields.io/badge/Backend-Flask-green?logo=flask)]
